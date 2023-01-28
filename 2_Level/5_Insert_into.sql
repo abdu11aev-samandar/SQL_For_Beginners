@@ -1,0 +1,2 @@
+insert into Customers ( first_name, last_name, email, gender, city, country, postal_code, date, price)
+VALUES ( 'Kathleen', 'Rusling', 'krusling0@house.gov', 'Female', 'Dongmazar', 'China', null, '2022-09-03', 6010)
