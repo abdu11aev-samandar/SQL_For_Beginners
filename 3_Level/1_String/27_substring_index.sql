@@ -1,0 +1,1 @@
+SELECT SUBSTRING_INDEX("www.w3schools.com", ".", 2) as SubStringIndex;
