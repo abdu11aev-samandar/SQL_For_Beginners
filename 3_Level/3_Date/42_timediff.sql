@@ -1,0 +1,1 @@
+select timediff("13:10:11", "13:10:10") as TimeDiff;

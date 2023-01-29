@@ -1,0 +1,1 @@
+select maketime(11, 12, 21) as MakeTime;

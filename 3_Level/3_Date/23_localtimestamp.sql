@@ -1,0 +1,1 @@
+select localtimestamp() as Local;

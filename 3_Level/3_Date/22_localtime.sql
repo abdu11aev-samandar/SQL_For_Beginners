@@ -1,0 +1,1 @@
+select localtime() as Local;

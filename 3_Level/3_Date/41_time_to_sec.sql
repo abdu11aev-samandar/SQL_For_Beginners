@@ -1,0 +1,1 @@
+select time_to_sec("19:30:10") as TimeToSec;

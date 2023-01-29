@@ -1,0 +1,1 @@
+select last_day("2017-02-10 09:34:00") as LastDay;

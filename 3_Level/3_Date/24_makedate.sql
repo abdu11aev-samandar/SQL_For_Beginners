@@ -1,0 +1,1 @@
+select makedate(2000, 400) as MakeDate;

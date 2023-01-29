@@ -1,0 +1,1 @@
+select hour("994:59:59") as OnlyHour;

@@ -1,0 +1,1 @@
+select minute("23:59:59") as Minute;
