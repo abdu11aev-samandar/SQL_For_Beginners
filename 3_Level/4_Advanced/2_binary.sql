@@ -1,0 +1,1 @@
+select binary "Samandar" = "Samandar";

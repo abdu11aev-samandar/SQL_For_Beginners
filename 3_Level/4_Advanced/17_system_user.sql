@@ -1,0 +1,1 @@
+select system_user() as SystemUser;

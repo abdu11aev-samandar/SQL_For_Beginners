@@ -1,0 +1,1 @@
+select connection_id() as ConnectionId;
