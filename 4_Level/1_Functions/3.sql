@@ -2,7 +2,7 @@ DELIMITER //
 
 CREATE FUNCTION CalcIncome(starting_value INT)
     RETURNS INT
-
+    DETERMINISTIC
 BEGIN
 
     DECLARE income INT;

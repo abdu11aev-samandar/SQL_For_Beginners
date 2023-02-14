@@ -8,8 +8,8 @@ begin
     return year(date2) - year(date1);
 end //
 
-select Employee_id,First_name,Last_name,
+/*select Employee_id,First_name,Last_name,
        no_of_year(Hire_date) as 'Year'
 from Employees;
 
-drop function no_of_year;
+drop function no_of_year;*/

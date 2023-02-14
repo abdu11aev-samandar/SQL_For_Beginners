@@ -1,7 +1,5 @@
 DELIMITER $$
-CREATE FUNCTION Customer_Occupation(
-    age int
-)
+CREATE FUNCTION Customer_Occupation(age int)
     RETURNS VARCHAR(20)
     DETERMINISTIC
 BEGIN
