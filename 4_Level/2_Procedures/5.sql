@@ -1,3 +1,5 @@
+drop procedure if exists While_Loop2;
+
 Delimiter //
 CREATE PROCEDURE While_Loop2()
 BEGIN

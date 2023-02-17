@@ -1,3 +1,5 @@
+drop procedure if exists GetCustomerDetail;
+
 DELIMITER
 $$
 CREATE PROCEDURE GetCustomerDetail()

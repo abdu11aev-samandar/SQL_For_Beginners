@@ -1,3 +1,5 @@
+drop function if exists no_of_year;
+
 delimiter //
 create function no_of_year(date1 date)
     returns int

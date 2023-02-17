@@ -1,3 +1,5 @@
+drop procedure if exists citycount;
+
 delimiter //
 
 CREATE PROCEDURE citycount (IN country CHAR(3), OUT cities INT)

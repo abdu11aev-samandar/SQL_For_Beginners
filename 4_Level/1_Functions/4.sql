@@ -1,7 +1,7 @@
-CREATE FUNCTION get_number_of_distinctions(minmarks INT) RETURNS INT
-
+CREATE FUNCTION get_number_of_distinctions(minmarks INT)
+    RETURNS INT
+    DETERMINISTIC
 BEGIN
-DETERMINISTIC
 
 DECLARE count INT DEFAULT 0;
 

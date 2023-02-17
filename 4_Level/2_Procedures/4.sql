@@ -1,3 +1,5 @@
+drop procedure if exists while_loop;
+
 DELIMITER //
 CREATE PROCEDURE while_loop()
 BEGIN
